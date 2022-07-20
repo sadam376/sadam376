@@ -27,7 +27,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sadam376&layout=compact&theme=github_light" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadam376&hide=html,css&layout=compact&theme=github_light" />
 </p>
-------------
+<hr>
 <h3>Where to find me</h3>
 <p><a href="https://discord.gg/Zdaqj5EM5Z" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a> <a href="https://github.com/fivemland" target="_blank"><img alt="Fivemland" src="https://img.shields.io/badge/Fivemland-%23e68312.svg?&style=for-the-badge&logo=Fivem&logoColor=white" />
 </p>
